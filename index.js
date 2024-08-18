@@ -53,7 +53,7 @@ const { displayHeader } = require('./src/display');
     } else {
       console.error('🚨 Tribe not found!'.red);
       console.log(
-        `Join HCA Tribe here: https://t.me/HappyCuanAirdrop/19694\n`.blue
+        `Join HCA Tribe here: https://t.me/Airdrop_OG/3927\n`.blue
       );
     }
 
